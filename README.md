@@ -14,7 +14,7 @@ Use https://threejs.org/ to build something creative in 3D. Why this library? Be
 
 1. You HAVE TO use https://threejs.org/ but beyond that, what you build, or how you do it, is up to you. 
 
-2. **You have until September 30th at 11:59pm EST** to submit your solution file (using Github. If you don't know how to do that, check out the lecture in the Git + Github section of the course). You will have to submit the link to the #coding-challenge Discord channel with the following message: "-challenge <LINK TO YOUR ENTRY>"
+2. **You have until September 30th at 11:59pm EST** to submit your solution file (using Github. If you don't know how to do that, check out the lecture in the Git + Github section of the course). You will have to submit the link to the #coding-challenge Discord channel with the following message: "-challenge URL LINK TO YOUR ENTRY"
 The bot will listen for the command and will submit the link you provided in the command. Please check that the bot responded with "Thanks for submitting your coding challenge entry!" and then double check the details it provides. Winner will be announced a couple of weeks after the contest ends.
 
 3. Use whatever tools you have as developers (google, friends, Discord, programming buddy etc...) but I will not be offering any help with this challenge. Just like a developer, you must solve a problem and build something that will be challenging. Nobody will hold your hand during the job so we want to experience that by figuring it all out on your own with your team. 
