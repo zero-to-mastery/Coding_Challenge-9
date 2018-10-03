@@ -7,6 +7,53 @@ Please Use the **#coding-challenge** channel on Discord to discuss and share you
 ## Prizes!
 Since I have been working hard on an upcoming course (release coming in October), I haven’t had time to look for sponsors, so the most creative submission to this coding challenge will get a full code review by me on any one of their projects that they choose (if that’s not an exciting prize, you will still have fun and learn a lot coding this challenge).
 
+## Coding Challenge Submissions
+The wonderful submissions from some of the Zero-to-Mastery students on the eighth coding challenge. I have included their Discord handle name so you can talk to them about their submissions!
+
+
+cosmin.p#9625  
+Github Repo  
+https://github.com/cosminCos/Challange-9  
+Github Pages  
+https://cosmincos.github.io/Challange-9  
+----  
+  
+Carmen#7148  
+Github Pages  
+https://carmeniancu.github.io/  
+----  
+  
+notAnkur#6968  
+Github Repo  
+https://github.com/anantankur/challenge9-threejs  
+Other Link  
+https://ankuranant.me/challenge9-threejs  
+----  
+  
+MaxMan#1368  
+Github Pages  
+https://max1manley.github.io/ThreeJS/  
+----  
+  
+Wooz_LosAngeles#8024  
+Github Repo  
+https://github.com/april9288/MiniCar  
+Github Pages  
+https://april9288.github.io/MiniCar/  
+----  
+  
+alpha_wolf#7324  
+Github Pages  
+https://ankit14136.github.io/  
+Github Repo  
+https://github.com/ankit14136/ankit14136.github.io  
+----  
+  
+jSwtch#9758  
+Github Repo  
+https://github.com/jSwtch/demo-robbierun/tree/master  
+----  
+
 ## What is the Challenge?
 Use https://threejs.org/ to build something creative in 3D. Why this library? Because it is probably one of the coolest libraries around for javascript, but also one with the most confusing documentation (in my opinion) when you are getting started. As you go through the library you will say: "I have no idea how any of this works". Stick with it. What else can you do? Maybe google for articles, and how-tos? Slowly you will figure out how it all works and you will be creating amazing 3D objects in no time. The challenge is to really push yourself to learn and find creative ways to tackle a problem. Can't wait to see some of these submissions and showcase them on here!
 
